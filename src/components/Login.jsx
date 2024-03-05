@@ -89,7 +89,7 @@ export default function Login() {
                         }}
                     >
                         <img
-                            src="./staff.png"
+                            src="/staff.png"
                             alt="staff"
                             style={{ filter: "drop-shadow(#71717A 5px 5px)" }}
                         />
