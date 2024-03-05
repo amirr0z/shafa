@@ -4,6 +4,7 @@ import Button from "./Button";
 import authContext from "../contexts/authContext";
 import { redirect, useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
+import staffPng from "/staff.png";
 
 export default function Login() {
     const [username, setUsername] = useState("");
@@ -89,7 +90,7 @@ export default function Login() {
                         }}
                     >
                         <img
-                            src="/staff.png"
+                            src={staffPng}
                             alt="staff"
                             style={{ filter: "drop-shadow(#71717A 5px 5px)" }}
                         />
