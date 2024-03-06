@@ -17,11 +17,11 @@ This frontend application is developed using React.js, Tailwind CSS, and Framer 
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/yourusername/medical-clinic-frontend.git
+   git clone https://github.com/amirr0z/shafa
    ```
 2. Navigate to the project directory.
    ```
-   cd medical-clinic-frontend
+   cd shafa
    ```
 3. Install dependencies using npm or yarn.
    ```
