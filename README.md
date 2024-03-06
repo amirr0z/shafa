@@ -17,7 +17,7 @@ This frontend application is developed using React.js, Tailwind CSS, and Framer 
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/amirr0z/shafa
+   git clone https://github.com/amirr0z/shafa.git
    ```
 2. Navigate to the project directory.
    ```
